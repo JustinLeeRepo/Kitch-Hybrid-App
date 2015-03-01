@@ -33,10 +33,10 @@
 			<!-- card 1 -->
 			<div class="card">
 				<div class="cardMainImage">
-					<img src="img/hippo.png">
+					<img src="img/dish1.png">
 				</div>
 				<div class="cardTitle">
-					<img src="img/hippo.png" class="cardTitleIcon">
+					<img src="img/rest1.png" class="cardTitleIcon">
 					<h2>I'm a Fat Hippo</h2>
 					<p>Me too</p>
 					<p class="dietaryLifeStyle">Vegan</p>
@@ -51,12 +51,34 @@
 					</div>
 				</div>
 			</div>
+			<!-- card 2 -->
 			<div class="card">
 				<div class="cardMainImage">
-					<img src="img/hippo.png">
+					<img src="img/dish2.png">
 				</div>
 				<div class="cardTitle">
-					<img src="img/hippo.png" class="cardTitleIcon">
+					<img src="img/rest2.png" class="cardTitleIcon">
+					<h2>I'm a Fat Hippo</h2>
+					<p>Me too</p>
+					<p class="dietaryLifeStyle">Vegan</p>
+					<p class="dietaryLifeStyle">Paleo</p>
+				</div>
+				<div class="cardBuyInfo">
+					<p class="cardPrice">$9.95</p>
+					<div class="cardIncrement" ng-controller="quantityCtrl">
+						<button class="button icon ion-minus-circled" ng-click="increment(-1)"></button>
+						<span class="cardQuantity">{{quantity}}</span>
+						<button class="button icon ion-plus-circled" ng-click="increment(1)"></button>
+					</div>
+				</div>
+			</div>
+			<!-- card 3 -->
+			<div class="card">
+				<div class="cardMainImage">
+					<img src="img/dish3.png">
+				</div>
+				<div class="cardTitle">
+					<img src="img/rest3.png" class="cardTitleIcon">
 					<h2>I'm a Fat Hippo</h2>
 					<p>Me too</p>
 					<p class="dietaryLifeStyle">Vegan</p>
