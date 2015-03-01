@@ -11,9 +11,6 @@
 	display: block;
 }
 
-.body{
-	background-image: url('/loginback.jpg');
-}
 .cardTitleIcon {
 	height: 100px;
 	width:  100px;
@@ -66,6 +63,7 @@
 .tableElt {
 	padding: 10px;
 }
+
 
 .profileContents {
   border-radius: 50%;
