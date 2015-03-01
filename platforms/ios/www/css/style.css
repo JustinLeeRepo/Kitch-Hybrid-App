@@ -54,6 +54,11 @@
 
 #checkoutBar {
 	position: fixed;
+	bottom: 0px;
+}
+
+#checkoutBarImg {
+	width: 100%;
 }
 
 .tableElt {
