@@ -136,3 +136,30 @@
 2015-03-01 01:53:25.772 Hippos[14490:865427] Finished load of: file:///Users/JackieZ/Library/Developer/CoreSimulator/Devices/6480C9C1-F368-4B36-85B0-4D9808DDB253/data/Containers/Bundle/Application/81B5DB00-19F6-4808-A2A2-634009EB2FE7/Hippos.app/www/index.html#/app/playlists
 2015-03-01 01:54:05.571 Hippos[14490:865427] CDVWebViewDelegate: Navigation started when state=1
 2015-03-01 01:54:05.571 Hippos[14490:865427] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-01 02:07:34.917 Hippos[10047:950210] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shaibruhis/Library/Developer/CoreSimulator/Devices/47F9EE2F-69A9-4FDE-9E7D-41B1FFD04CB1/data/Containers/Data/Application/705C501C-9515-486A-BB00-242DF571C89B/Library/Cookies/Cookies.binarycookies
+2015-03-01 02:07:37.243 Hippos[10047:950210] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 02:07:37.245 Hippos[10047:950210] Multi-tasking -> Device: YES, App: YES
+2015-03-01 02:07:37.357 Hippos[10047:950210] Unlimited access to network resources
+2015-03-01 02:07:38.863 Hippos[10047:950210] [CDVTimer][keyboard] 0.062048ms
+2015-03-01 02:07:38.864 Hippos[10047:950210] [CDVTimer][TotalPluginStartup] 14.515996ms
+2015-03-01 02:07:41.281 Hippos[10047:950210] Resetting plugins due to page load.
+2015-03-01 02:07:42.489 Hippos[10047:950210] Finished load of: file:///Users/shaibruhis/Library/Developer/CoreSimulator/Devices/47F9EE2F-69A9-4FDE-9E7D-41B1FFD04CB1/data/Containers/Bundle/Application/BC68E1F5-CBB9-46C6-AB38-EBDB578F0DBD/Hippos.app/www/index.html#/app/playlists
+2015-03-01 02:09:21.811 Hippos[10185:951318] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shaibruhis/Library/Developer/CoreSimulator/Devices/47F9EE2F-69A9-4FDE-9E7D-41B1FFD04CB1/data/Containers/Data/Application/9DC8F8EC-CA69-4BD8-BD52-0574234BEE1E/Library/Cookies/Cookies.binarycookies
+2015-03-01 02:09:22.102 Hippos[10185:951318] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 02:09:22.102 Hippos[10185:951318] Multi-tasking -> Device: YES, App: YES
+2015-03-01 02:09:22.103 Hippos[10185:951318] Unlimited access to network resources
+2015-03-01 02:09:22.361 Hippos[10185:951318] [CDVTimer][keyboard] 0.060022ms
+2015-03-01 02:09:22.371 Hippos[10185:951318] [CDVTimer][TotalPluginStartup] 9.867966ms
+2015-03-01 02:09:23.287 Hippos[10185:951318] Resetting plugins due to page load.
+2015-03-01 02:09:23.681 Hippos[10185:951318] Finished load of: file:///Users/shaibruhis/Library/Developer/CoreSimulator/Devices/47F9EE2F-69A9-4FDE-9E7D-41B1FFD04CB1/data/Containers/Bundle/Application/9B73CA67-43C0-41B9-A809-A061430D1700/Hippos.app/www/index.html#/app/playlists
+2015-03-01 02:10:31.553 Hippos[10185:951318] Doing login [object Object]
+2015-03-01 02:10:31.569 Hippos[10185:951318] THREAD WARNING: ['Console'] took '16.173828' ms. Plugin should use a background thread.
+2015-03-01 02:10:33.001 Hippos[10185:951318] THREAD WARNING: ['Keyboard'] took '40.997070' ms. Plugin should use a background thread.
+2015-03-01 02:16:17.974 Hippos[10326:953453] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shaibruhis/Library/Developer/CoreSimulator/Devices/47F9EE2F-69A9-4FDE-9E7D-41B1FFD04CB1/data/Containers/Data/Application/83823DF5-4A54-4B2A-B5E4-D1512185F2DC/Library/Cookies/Cookies.binarycookies
+2015-03-01 02:16:18.631 Hippos[10326:953453] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 02:16:18.632 Hippos[10326:953453] Multi-tasking -> Device: YES, App: YES
+2015-03-01 02:16:18.635 Hippos[10326:953453] Unlimited access to network resources
+2015-03-01 02:16:19.777 Hippos[10326:953453] [CDVTimer][keyboard] 0.092983ms
+2015-03-01 02:16:19.777 Hippos[10326:953453] [CDVTimer][TotalPluginStartup] 0.364959ms
+2015-03-01 02:16:21.001 Hippos[10326:953453] Resetting plugins due to page load.
+2015-03-01 02:16:21.552 Hippos[10326:953453] Finished load of: file:///Users/shaibruhis/Library/Developer/CoreSimulator/Devices/47F9EE2F-69A9-4FDE-9E7D-41B1FFD04CB1/data/Containers/Bundle/Application/772A5907-693D-4098-9DD4-73A262EBF914/Hippos.app/www/index.html#/app/playlists
