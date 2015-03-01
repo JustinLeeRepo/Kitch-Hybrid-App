@@ -1316,3 +1316,11 @@
 2015-03-01 13:22:35.232 Hippos[21787:1076972] Resetting plugins due to page load.
 2015-03-01 13:22:35.233 Hippos[21787:1076972] Failed to load webpage with error: The requested URL was not found on this server.
 >>>>>>> 85a09b832bebbc7034f4c1d125e7a0959e9dd47e
+2015-03-01 14:30:21.613 Hippos[39577:626914] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/3B29E50A-25AE-4E50-BE3B-560D7131AD58/Library/Cookies/Cookies.binarycookies
+2015-03-01 14:30:21.827 Hippos[39577:626914] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 14:30:21.828 Hippos[39577:626914] Multi-tasking -> Device: YES, App: YES
+2015-03-01 14:30:21.829 Hippos[39577:626914] Unlimited access to network resources
+2015-03-01 14:30:22.055 Hippos[39577:626914] [CDVTimer][keyboard] 0.060022ms
+2015-03-01 14:30:22.056 Hippos[39577:626914] [CDVTimer][TotalPluginStartup] 0.234962ms
+2015-03-01 14:30:22.563 Hippos[39577:626914] Resetting plugins due to page load.
+2015-03-01 14:30:24.618 Hippos[39577:626914] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/8DF0FC51-34BC-4514-8A38-FB90DB669CE1/Hippos.app/www/index.html
