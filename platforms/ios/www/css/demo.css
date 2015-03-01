@@ -29,9 +29,11 @@ h3 {
 .bgimage {
     text-align:right;
     color:white;
-    background-size:cover;
+    background-size:contain;
     height: 100%;
     background-position: center center;
+        background-repeat: no-repeat;
+
 }
 
 ul[rn-carousel] {
