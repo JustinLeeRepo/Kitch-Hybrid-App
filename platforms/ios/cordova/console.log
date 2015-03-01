@@ -653,3 +653,147 @@
 2015-03-01 06:36:10.554 Hippos[27187:479404] [CDVTimer][TotalPluginStartup] 0.241041ms
 2015-03-01 06:36:10.619 Hippos[27187:479404] Resetting plugins due to page load.
 2015-03-01 06:36:10.780 Hippos[27187:479404] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/82C9A85A-AFC1-4FB0-8E4B-FB9CFE575C80/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:13:57.738 Hippos[27463:485245] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/9A2E668E-60AB-432F-B3DD-1A622D585C21/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:13:58.125 Hippos[27463:485245] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:13:58.125 Hippos[27463:485245] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:13:58.126 Hippos[27463:485245] Unlimited access to network resources
+2015-03-01 07:13:58.660 Hippos[27463:485245] [CDVTimer][keyboard] 0.057995ms
+2015-03-01 07:13:58.660 Hippos[27463:485245] [CDVTimer][TotalPluginStartup] 0.236034ms
+2015-03-01 07:14:00.163 Hippos[27463:485245] Resetting plugins due to page load.
+2015-03-01 07:14:00.502 Hippos[27463:485245] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/D2E70956-71BD-4BD4-AACE-64D1961F7050/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:15:16.151 Hippos[27710:486529] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/3DBFD6E1-4B25-4F0E-B37B-124EE0CBE2C6/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:15:16.522 Hippos[27710:486529] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:15:16.522 Hippos[27710:486529] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:15:16.523 Hippos[27710:486529] Unlimited access to network resources
+2015-03-01 07:15:16.816 Hippos[27710:486529] [CDVTimer][keyboard] 0.056028ms
+2015-03-01 07:15:16.816 Hippos[27710:486529] [CDVTimer][TotalPluginStartup] 0.231981ms
+2015-03-01 07:15:17.736 Hippos[27710:486529] Resetting plugins due to page load.
+2015-03-01 07:15:17.960 Hippos[27710:486529] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/010B492D-5736-4265-945B-DF278B55461B/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:16:41.945 Hippos[27957:487592] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/A469F4E7-15AE-4271-A26D-527CA3E8D56F/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:16:42.272 Hippos[27957:487592] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:16:42.272 Hippos[27957:487592] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:16:42.274 Hippos[27957:487592] Unlimited access to network resources
+2015-03-01 07:16:42.581 Hippos[27957:487592] [CDVTimer][keyboard] 0.059009ms
+2015-03-01 07:16:42.581 Hippos[27957:487592] [CDVTimer][TotalPluginStartup] 0.234962ms
+2015-03-01 07:16:43.012 Hippos[27957:487592] Resetting plugins due to page load.
+2015-03-01 07:16:43.193 Hippos[27957:487592] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/E8DB56AE-F17D-4747-9345-BF930080A6A2/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:18:42.212 Hippos[28093:488900] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/7AD6E7CC-7E18-4416-8691-7E08CEB668E3/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:18:42.549 Hippos[28093:488900] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:18:42.549 Hippos[28093:488900] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:18:42.551 Hippos[28093:488900] Unlimited access to network resources
+2015-03-01 07:18:42.861 Hippos[28093:488900] [CDVTimer][keyboard] 0.056982ms
+2015-03-01 07:18:42.862 Hippos[28093:488900] [CDVTimer][TotalPluginStartup] 0.229955ms
+2015-03-01 07:18:43.768 Hippos[28093:488900] Resetting plugins due to page load.
+2015-03-01 07:18:44.045 Hippos[28093:488900] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/E78E2B5A-0F54-41AB-BE68-C48B6DB2985E/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:19:33.176 Hippos[28227:489698] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/813114E8-CF5C-4D50-A8E2-08A62BAB563C/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:19:33.403 Hippos[28227:489698] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:19:33.403 Hippos[28227:489698] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:19:33.404 Hippos[28227:489698] Unlimited access to network resources
+2015-03-01 07:19:33.687 Hippos[28227:489698] [CDVTimer][keyboard] 0.056028ms
+2015-03-01 07:19:33.687 Hippos[28227:489698] [CDVTimer][TotalPluginStartup] 0.231028ms
+2015-03-01 07:19:34.205 Hippos[28227:489698] Resetting plugins due to page load.
+2015-03-01 07:19:34.537 Hippos[28227:489698] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/4A71AD5C-59DA-4013-B515-83781666964E/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:20:16.498 Hippos[28362:490453] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/B9F7B8C2-016C-4F25-B50F-730BD372EBD6/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:20:16.757 Hippos[28362:490453] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:20:16.758 Hippos[28362:490453] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:20:16.759 Hippos[28362:490453] Unlimited access to network resources
+2015-03-01 07:20:16.973 Hippos[28362:490453] [CDVTimer][keyboard] 0.060022ms
+2015-03-01 07:20:16.973 Hippos[28362:490453] [CDVTimer][TotalPluginStartup] 0.231981ms
+2015-03-01 07:20:17.325 Hippos[28362:490453] Resetting plugins due to page load.
+2015-03-01 07:20:17.573 Hippos[28362:490453] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/80C39F27-C8AA-42C4-9500-8A5269BB691A/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:20:53.712 Hippos[28497:491197] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/BCE3AEDF-7D2C-4A86-B8E4-78DF8B936E87/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:20:53.949 Hippos[28497:491197] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:20:53.950 Hippos[28497:491197] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:20:53.951 Hippos[28497:491197] Unlimited access to network resources
+2015-03-01 07:20:54.167 Hippos[28497:491197] [CDVTimer][keyboard] 0.066996ms
+2015-03-01 07:20:54.167 Hippos[28497:491197] [CDVTimer][TotalPluginStartup] 0.347018ms
+2015-03-01 07:20:54.532 Hippos[28497:491197] Resetting plugins due to page load.
+2015-03-01 07:20:54.707 Hippos[28497:491197] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/8FB95BE9-06B4-46D6-AB05-22DCAEBC6C61/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:23:24.290 Hippos[28632:492548] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/31105A6F-2A5A-4F3E-BB89-D7B852E22896/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:23:24.497 Hippos[28632:492548] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:23:24.497 Hippos[28632:492548] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:23:24.498 Hippos[28632:492548] Unlimited access to network resources
+2015-03-01 07:23:24.727 Hippos[28632:492548] [CDVTimer][keyboard] 0.057995ms
+2015-03-01 07:23:24.727 Hippos[28632:492548] [CDVTimer][TotalPluginStartup] 0.229001ms
+2015-03-01 07:23:25.139 Hippos[28632:492548] Resetting plugins due to page load.
+2015-03-01 07:23:25.279 Hippos[28632:492548] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/9332F0DE-D727-4648-9F14-D5A20CAC2D27/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:24:09.461 Hippos[28767:493321] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/1DB3844F-F677-4277-AB27-5EC02368340C/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:24:09.547 Hippos[28767:493321] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:24:09.547 Hippos[28767:493321] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:24:09.549 Hippos[28767:493321] Unlimited access to network resources
+2015-03-01 07:24:09.740 Hippos[28767:493321] [CDVTimer][keyboard] 0.111997ms
+2015-03-01 07:24:09.740 Hippos[28767:493321] [CDVTimer][TotalPluginStartup] 0.402987ms
+2015-03-01 07:24:09.820 Hippos[28767:493321] Resetting plugins due to page load.
+2015-03-01 07:24:10.012 Hippos[28767:493321] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/7EA78EE8-0653-4B6C-9086-DBF5084A1DA9/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:25:33.593 Hippos[28902:494273] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/C5C5D537-7D7A-49FE-9115-419D4A7A04C2/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:25:33.819 Hippos[28902:494273] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:25:33.819 Hippos[28902:494273] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:25:33.820 Hippos[28902:494273] Unlimited access to network resources
+2015-03-01 07:25:34.067 Hippos[28902:494273] [CDVTimer][keyboard] 0.056982ms
+2015-03-01 07:25:34.067 Hippos[28902:494273] [CDVTimer][TotalPluginStartup] 0.234008ms
+2015-03-01 07:25:34.587 Hippos[28902:494273] Resetting plugins due to page load.
+2015-03-01 07:25:34.908 Hippos[28902:494273] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/6794AADD-ED15-4E0F-89EA-5BAE1F839D09/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:26:17.722 Hippos[29037:494962] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/D8703E9B-3F44-4503-9B7C-C9C2A1C34771/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:26:17.970 Hippos[29037:494962] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:26:17.970 Hippos[29037:494962] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:26:17.972 Hippos[29037:494962] Unlimited access to network resources
+2015-03-01 07:26:18.185 Hippos[29037:494962] [CDVTimer][keyboard] 0.056982ms
+2015-03-01 07:26:18.185 Hippos[29037:494962] [CDVTimer][TotalPluginStartup] 0.229001ms
+2015-03-01 07:26:18.509 Hippos[29037:494962] Resetting plugins due to page load.
+2015-03-01 07:26:18.694 Hippos[29037:494962] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/7751385A-7F4C-41A8-A0A1-47F8CBF0F7E6/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:29:04.177 Hippos[29172:496349] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/52856939-244D-470A-964F-D3B302BC8DDE/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:29:04.415 Hippos[29172:496349] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:29:04.415 Hippos[29172:496349] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:29:04.417 Hippos[29172:496349] Unlimited access to network resources
+2015-03-01 07:29:04.711 Hippos[29172:496349] [CDVTimer][keyboard] 0.115037ms
+2015-03-01 07:29:04.711 Hippos[29172:496349] [CDVTimer][TotalPluginStartup] 0.506997ms
+2015-03-01 07:29:05.122 Hippos[29172:496349] Resetting plugins due to page load.
+2015-03-01 07:29:05.292 Hippos[29172:496349] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/CFE42614-4695-40EB-999D-3D72B6AFBBC4/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:31:16.792 Hippos[29311:497950] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/B9391B88-A034-455F-ABA8-45C28F6ECE46/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:31:17.197 Hippos[29311:497950] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:31:17.198 Hippos[29311:497950] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:31:17.199 Hippos[29311:497950] Unlimited access to network resources
+2015-03-01 07:31:17.515 Hippos[29311:497950] [CDVTimer][keyboard] 0.055015ms
+2015-03-01 07:31:17.515 Hippos[29311:497950] [CDVTimer][TotalPluginStartup] 0.227988ms
+2015-03-01 07:31:18.547 Hippos[29311:497950] Resetting plugins due to page load.
+2015-03-01 07:31:18.964 Hippos[29311:497950] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/9F932169-7D5D-4F4F-B431-03135ACE8193/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:32:05.949 Hippos[29445:498766] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/A6679A71-2D54-4E30-858E-E1946EA3EB10/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:32:06.152 Hippos[29445:498766] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:32:06.152 Hippos[29445:498766] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:32:06.153 Hippos[29445:498766] Unlimited access to network resources
+2015-03-01 07:32:06.374 Hippos[29445:498766] [CDVTimer][keyboard] 0.055015ms
+2015-03-01 07:32:06.375 Hippos[29445:498766] [CDVTimer][TotalPluginStartup] 0.233054ms
+2015-03-01 07:32:06.740 Hippos[29445:498766] Resetting plugins due to page load.
+2015-03-01 07:32:06.904 Hippos[29445:498766] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/462840B5-2452-4D62-9B74-42E76AE450A1/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:32:28.425 Hippos[29580:499359] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/1E9DF39E-AA4F-4815-B098-6E03E099ADAE/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:32:28.516 Hippos[29580:499359] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:32:28.516 Hippos[29580:499359] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:32:28.518 Hippos[29580:499359] Unlimited access to network resources
+2015-03-01 07:32:28.717 Hippos[29580:499359] [CDVTimer][keyboard] 0.057995ms
+2015-03-01 07:32:28.717 Hippos[29580:499359] [CDVTimer][TotalPluginStartup] 0.266969ms
+2015-03-01 07:32:28.777 Hippos[29580:499359] Resetting plugins due to page load.
+2015-03-01 07:32:28.930 Hippos[29580:499359] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/D1FDF2E2-AE92-4859-A073-838AD7BF24BC/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:34:12.402 Hippos[29715:500252] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/7C17E20E-6EC0-46C9-9F0E-4BED8FF4A568/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:34:12.608 Hippos[29715:500252] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:34:12.608 Hippos[29715:500252] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:34:12.610 Hippos[29715:500252] Unlimited access to network resources
+2015-03-01 07:34:12.833 Hippos[29715:500252] [CDVTimer][keyboard] 0.061989ms
+2015-03-01 07:34:12.834 Hippos[29715:500252] [CDVTimer][TotalPluginStartup] 0.234008ms
+2015-03-01 07:34:13.196 Hippos[29715:500252] Resetting plugins due to page load.
+2015-03-01 07:34:13.367 Hippos[29715:500252] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/C52938DC-0D1D-4ED4-94AE-BE5FA6FA7C5A/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:34:34.800 Hippos[29850:500893] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/B39CA97B-80D2-41FD-998D-D05BE1E82906/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:34:35.005 Hippos[29850:500893] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:34:35.005 Hippos[29850:500893] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:34:35.007 Hippos[29850:500893] Unlimited access to network resources
+2015-03-01 07:34:35.213 Hippos[29850:500893] [CDVTimer][keyboard] 0.074983ms
+2015-03-01 07:34:35.214 Hippos[29850:500893] [CDVTimer][TotalPluginStartup] 0.621021ms
+2015-03-01 07:34:35.278 Hippos[29850:500893] Resetting plugins due to page load.
+2015-03-01 07:34:35.441 Hippos[29850:500893] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/C54C3759-E0C9-4675-AF39-AE96D1ED02F8/Hippos.app/www/index.html#/app/profile
+2015-03-01 07:35:37.723 Hippos[29985:501676] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Data/Application/B1EE6DAD-ABEF-4315-8E33-19FE03E660E7/Library/Cookies/Cookies.binarycookies
+2015-03-01 07:35:37.966 Hippos[29985:501676] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 07:35:37.966 Hippos[29985:501676] Multi-tasking -> Device: YES, App: YES
+2015-03-01 07:35:37.967 Hippos[29985:501676] Unlimited access to network resources
+2015-03-01 07:35:38.183 Hippos[29985:501676] [CDVTimer][keyboard] 0.056028ms
+2015-03-01 07:35:38.183 Hippos[29985:501676] [CDVTimer][TotalPluginStartup] 0.229001ms
+2015-03-01 07:35:38.544 Hippos[29985:501676] Resetting plugins due to page load.
+2015-03-01 07:35:38.716 Hippos[29985:501676] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/D1ACB6A0-75D7-4381-90DF-FA52F4F74905/Hippos.app/www/index.html#/app/profile
