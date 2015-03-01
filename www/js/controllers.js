@@ -18,16 +18,12 @@ angular.module('starter.controllers', [])
 
     // deal with displaying checkout if any card has quantity >= 1
     if ($rootScope.totalQuantity == 0) {
-      
+      document.getElementById('checkoutBarImg').style.opacity = "0.8";
+      document.getElementById('checkoutBar').style.opacity = "0.8";
     }
     else if ($rootScope.totalQuantity == 1) {
-
-    }
-    else if ($rootScope.totalQuantity == 2) {
-
-    }
-    else if ($rootScope.totalQuantity == 3) {
-
+      document.getElementById('checkoutBarImg').style.opacity = "1.0";
+      document.getElementById('checkoutBar').style.opacity = "1.0";
     }
   }
 })

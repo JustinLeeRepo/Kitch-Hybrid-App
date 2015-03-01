@@ -52,10 +52,12 @@
 #checkoutBar {
 	position: fixed;
 	bottom: 0px;
+	opacity: 0.8;
 }
 
 #checkoutBarImg {
 	width: 100%;
+	opacity: 0.8;
 }
 
 .tableElt {
@@ -66,7 +68,7 @@
     position:relative;
     left: 50%;
     margin-top:90%;
-    }
+}
 
 
 .profileContents {
