@@ -1899,3 +1899,213 @@
 2015-03-01 16:34:38.365 Hippos[48781:706782] [CDVTimer][TotalPluginStartup] 0.226974ms
 2015-03-01 16:34:38.423 Hippos[48781:706782] Resetting plugins due to page load.
 2015-03-01 16:34:38.581 Hippos[48781:706782] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/E8668CC1-8F8C-4871-89A4-3BA8C2AA368B/Hippos.app/www/index.html#/app/profile
+2015-03-01 16:40:46.585 Hippos[48981:710359] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 16:40:46.587 Hippos[48981:710359] Multi-tasking -> Device: YES, App: YES
+2015-03-01 16:40:46.588 Hippos[48981:710359] Unlimited access to network resources
+2015-03-01 16:40:46.887 Hippos[48981:710359] [CDVTimer][keyboard] 0.060022ms
+2015-03-01 16:40:46.887 Hippos[48981:710359] [CDVTimer][TotalPluginStartup] 0.231981ms
+2015-03-01 16:40:47.973 Hippos[48981:710359] Resetting plugins due to page load.
+2015-03-01 16:40:48.655 Hippos[48981:710359] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/50520E4A-9AB8-4BDE-8908-9746FB58FC39/Hippos.app/www/index.html#/app/profile
+2015-03-01 16:41:53.336 Hippos[49147:711508] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 16:41:53.338 Hippos[49147:711508] Multi-tasking -> Device: YES, App: YES
+2015-03-01 16:41:53.340 Hippos[49147:711508] Unlimited access to network resources
+2015-03-01 16:41:53.552 Hippos[49147:711508] [CDVTimer][keyboard] 0.064969ms
+2015-03-01 16:41:53.552 Hippos[49147:711508] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-03-01 16:41:53.614 Hippos[49147:711508] Resetting plugins due to page load.
+2015-03-01 16:41:53.773 Hippos[49147:711508] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/83167EF8-F6DC-4976-8D37-5C5600E0C3A6/Hippos.app/www/index.html#/app/profile
+2015-03-01 16:42:09.480 Hippos[49147:711508] Resetting plugins due to page load.
+2015-03-01 16:42:09.739 Hippos[49147:711508] Finished load of: http://i59.tinypic.com/28c1wd3.png
+2015-03-01 16:44:24.552 Hippos[49313:713008] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 16:44:24.553 Hippos[49313:713008] Multi-tasking -> Device: YES, App: YES
+2015-03-01 16:44:24.554 Hippos[49313:713008] Unlimited access to network resources
+2015-03-01 16:44:24.789 Hippos[49313:713008] [CDVTimer][keyboard] 0.059009ms
+2015-03-01 16:44:24.789 Hippos[49313:713008] [CDVTimer][TotalPluginStartup] 0.238001ms
+2015-03-01 16:44:24.856 Hippos[49313:713008] Resetting plugins due to page load.
+2015-03-01 16:44:25.014 Hippos[49313:713008] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/F4BD75C7-410B-4D08-ABEC-C45EE9D021D6/Hippos.app/www/index.html#/app/profile
+2015-03-01 16:52:55.193 Hippos[49483:716803] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 16:52:55.208 Hippos[49483:716803] Multi-tasking -> Device: YES, App: YES
+2015-03-01 16:52:55.211 Hippos[49483:716803] Unlimited access to network resources
+2015-03-01 16:52:55.445 Hippos[49483:716803] [CDVTimer][keyboard] 0.063002ms
+2015-03-01 16:52:55.445 Hippos[49483:716803] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-03-01 16:52:55.938 Hippos[49483:716803] Resetting plugins due to page load.
+2015-03-01 16:52:56.150 Hippos[49483:716803] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/B212E29A-C913-40D6-A3A8-8BEC0CB165E2/Hippos.app/www/index.html#/app/profile
+2015-03-01 16:53:44.410 Hippos[49483:716803] Doing login [object Object]
+2015-03-01 16:53:46.027 Hippos[49483:716803] Doing login [object Object]
+2015-03-01 16:53:47.167 Hippos[49483:716803] Doing login [object Object]
+2015-03-01 16:55:11.588 Hippos[49483:716803] Doing login [object Object]
+2015-03-01 16:55:11.675 Hippos[49483:716803] THREAD WARNING: ['Console'] took '87.099121' ms. Plugin should use a background thread.
+2015-03-01 16:56:00.255 Hippos[49483:716803] Resetting plugins due to page load.
+2015-03-01 16:56:00.570 Hippos[49483:716803] Finished load of: http://i59.tinypic.com/28c1wd3.png
+2015-03-01 16:59:26.787 Hippos[49654:719866] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 16:59:26.802 Hippos[49654:719866] Multi-tasking -> Device: YES, App: YES
+2015-03-01 16:59:26.805 Hippos[49654:719866] Unlimited access to network resources
+2015-03-01 16:59:27.112 Hippos[49654:719866] [CDVTimer][keyboard] 0.059962ms
+2015-03-01 16:59:27.112 Hippos[49654:719866] [CDVTimer][TotalPluginStartup] 0.236034ms
+2015-03-01 16:59:28.245 Hippos[49654:719866] Resetting plugins due to page load.
+2015-03-01 16:59:28.519 Hippos[49654:719866] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/2DCA1BB8-248B-47CC-B6BC-9E0A1869A1D5/Hippos.app/www/index.html#/app/profile
+2015-03-01 17:05:24.432 Hippos[49823:723030] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 17:05:24.433 Hippos[49823:723030] Multi-tasking -> Device: YES, App: YES
+2015-03-01 17:05:24.434 Hippos[49823:723030] Unlimited access to network resources
+2015-03-01 17:05:24.627 Hippos[49823:723030] [CDVTimer][keyboard] 0.106990ms
+2015-03-01 17:05:24.628 Hippos[49823:723030] [CDVTimer][TotalPluginStartup] 0.401974ms
+2015-03-01 17:05:24.725 Hippos[49823:723030] Resetting plugins due to page load.
+2015-03-01 17:05:24.882 Hippos[49823:723030] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/AF94A909-1FC7-4BD4-BDE6-724836C476AC/Hippos.app/www/index.html#/app/profile
+2015-03-01 17:05:30.040 Hippos[49823:723030] Doing login [object Object]
+2015-03-01 17:05:31.619 Hippos[49823:723030] Doing login [object Object]
+2015-03-01 17:05:34.519 Hippos[49823:723030] Doing login [object Object]
+2015-03-01 17:05:34.856 Hippos[49823:723030] Doing login [object Object]
+2015-03-01 17:05:54.947 Hippos[49989:723708] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 17:05:54.965 Hippos[49989:723708] Multi-tasking -> Device: YES, App: YES
+2015-03-01 17:05:54.966 Hippos[49989:723708] Unlimited access to network resources
+2015-03-01 17:05:55.166 Hippos[49989:723708] [CDVTimer][keyboard] 0.055015ms
+2015-03-01 17:05:55.166 Hippos[49989:723708] [CDVTimer][TotalPluginStartup] 0.227034ms
+2015-03-01 17:05:55.528 Hippos[49989:723708] Resetting plugins due to page load.
+2015-03-01 17:05:55.701 Hippos[49989:723708] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/43D95DE8-FD0E-4C12-8D21-2AB89FF90391/Hippos.app/www/index.html#/app/profile
+2015-03-01 17:06:04.049 Hippos[49989:723708] Doing login [object Object]
+2015-03-01 17:06:05.522 Hippos[49989:723708] Doing login [object Object]
+2015-03-01 17:06:06.194 Hippos[49989:723708] Doing login [object Object]
+2015-03-01 17:06:06.505 Hippos[49989:723708] Doing login [object Object]
+2015-03-01 17:06:06.626 Hippos[49989:723708] Doing login [object Object]
+2015-03-01 17:06:07.890 Hippos[49989:723708] Doing login [object Object]
+2015-03-01 17:06:46.168 Hippos[50155:724456] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 17:06:46.186 Hippos[50155:724456] Multi-tasking -> Device: YES, App: YES
+2015-03-01 17:06:46.189 Hippos[50155:724456] Unlimited access to network resources
+2015-03-01 17:06:46.395 Hippos[50155:724456] [CDVTimer][keyboard] 0.055015ms
+2015-03-01 17:06:46.395 Hippos[50155:724456] [CDVTimer][TotalPluginStartup] 0.227988ms
+2015-03-01 17:06:46.745 Hippos[50155:724456] Resetting plugins due to page load.
+2015-03-01 17:06:46.929 Hippos[50155:724456] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/6258A4E4-B754-41BF-91CD-537D81617325/Hippos.app/www/index.html#/app/profile
+2015-03-01 17:06:55.054 Hippos[50155:724456] Doing login [object Object]
+2015-03-01 17:06:55.748 Hippos[50155:724456] Doing login [object Object]
+2015-03-01 17:08:03.014 Hippos[50155:724456] Doing login [object Object]
+2015-03-01 17:08:09.357 Hippos[50321:725482] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 17:08:09.358 Hippos[50321:725482] Multi-tasking -> Device: YES, App: YES
+2015-03-01 17:08:09.360 Hippos[50321:725482] Unlimited access to network resources
+2015-03-01 17:08:09.586 Hippos[50321:725482] [CDVTimer][keyboard] 0.069976ms
+2015-03-01 17:08:09.587 Hippos[50321:725482] [CDVTimer][TotalPluginStartup] 0.281990ms
+2015-03-01 17:08:09.655 Hippos[50321:725482] Resetting plugins due to page load.
+2015-03-01 17:08:09.817 Hippos[50321:725482] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/A86B1911-B01C-4576-8807-C7D2ACBE5A1F/Hippos.app/www/index.html#/app/profile
+2015-03-01 17:08:20.559 Hippos[50321:725482] Doing login [object Object]
+2015-03-01 17:56:46.413 Hippos[50321:725482] Doing login [object Object]
+2015-03-01 17:56:46.502 Hippos[50321:725482] THREAD WARNING: ['Console'] took '89.170898' ms. Plugin should use a background thread.
+2015-03-01 17:57:19.414 Hippos[50321:725482] Resetting plugins due to page load.
+2015-03-01 17:57:19.969 Hippos[50321:725482] Finished load of: http://i59.tinypic.com/28c1wd3.png
+2015-03-02 13:51:32.008 Hippos[50791:806722] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 13:51:32.025 Hippos[50791:806722] Multi-tasking -> Device: YES, App: YES
+2015-03-02 13:51:32.054 Hippos[50791:806722] Unlimited access to network resources
+2015-03-02 13:51:32.713 Hippos[50791:806722] [CDVTimer][keyboard] 0.061989ms
+2015-03-02 13:51:32.713 Hippos[50791:806722] [CDVTimer][TotalPluginStartup] 0.695050ms
+2015-03-02 13:51:34.651 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:51:35.186 Hippos[50791:806722] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/82410380-F4CF-4EEA-9BE9-2D41875C43A0/Hippos.app/www/index.html#/app/profile
+2015-03-02 13:52:01.187 Hippos[50791:806722] Doing login [object Object]
+2015-03-02 13:52:01.958 Hippos[50791:806722] Doing login [object Object]
+2015-03-02 13:52:02.833 Hippos[50791:806722] Doing login [object Object]
+2015-03-02 13:52:52.388 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:52:52.683 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:52:54.759 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:52:54.786 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:52:56.563 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:52:56.590 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:52:58.222 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:52:58.250 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:52:58.739 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:52:58.769 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:00.357 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:00.453 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:01.413 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:01.436 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:01.883 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:01.910 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:06.607 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:06.632 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:06.808 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:06.830 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:09.236 Hippos[50791:806722] CDVWebViewDelegate: Navigation started when state=1
+2015-03-02 13:53:09.236 Hippos[50791:806722] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-02 13:53:09.237 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:09.263 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:09.784 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:09.811 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:09.976 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:10.001 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:10.415 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:10.440 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:10.740 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:10.766 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:15.038 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:15.072 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:15.432 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:15.460 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:17.352 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:17.377 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:17.498 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:17.523 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:17.632 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:17.655 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:18.062 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:18.086 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:19.853 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:19.879 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:23.043 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:23.072 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:23.518 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:23.547 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:23.696 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:23.728 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:24.361 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:24.385 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:28.440 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:28.468 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:28.608 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:28.633 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:28.828 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:28.852 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:53:29.100 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:53:29.329 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:54:56.749 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:54:56.794 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:02.203 Hippos[50791:806722] Doing login [object Object]
+2015-03-02 13:55:04.668 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:55:04.703 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:04.877 Hippos[50791:806722] Resetting plugins due to page load.
+2015-03-02 13:55:04.901 Hippos[50791:806722] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:13.933 Hippos[50956:808344] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-02 13:55:13.935 Hippos[50956:808344] Multi-tasking -> Device: YES, App: YES
+2015-03-02 13:55:13.936 Hippos[50956:808344] Unlimited access to network resources
+2015-03-02 13:55:14.151 Hippos[50956:808344] [CDVTimer][keyboard] 0.056028ms
+2015-03-02 13:55:14.152 Hippos[50956:808344] [CDVTimer][TotalPluginStartup] 0.229001ms
+2015-03-02 13:55:14.214 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:14.390 Hippos[50956:808344] Finished load of: file:///Users/Justin/Library/Developer/CoreSimulator/Devices/E779F608-55E8-45BB-BC16-463624F0613E/data/Containers/Bundle/Application/EEB2BADF-D4CE-42E1-B027-B7556787B774/Hippos.app/www/index.html#/app/profile
+2015-03-02 13:55:40.764 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:40.818 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:42.367 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:42.393 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:42.924 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:42.952 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:46.114 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:46.173 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:46.239 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:46.261 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:50.009 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:50.033 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:51.292 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:51.317 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:53.279 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:53.302 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:53.462 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:53.484 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:54.709 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:54.732 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:55.395 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:55.423 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:55.643 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:55.667 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:55:55.762 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:55:55.796 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:56:51.337 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:56:51.380 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:56:51.470 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:56:51.502 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:56:51.658 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:56:51.686 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
+2015-03-02 13:56:52.178 Hippos[50956:808344] Resetting plugins due to page load.
+2015-03-02 13:56:52.205 Hippos[50956:808344] Failed to load webpage with error: The network connection was lost.
